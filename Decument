@@ -1,0 +1,27 @@
+Text to Speech dependancy
+-----------------------------
+npm install react-native-tts --save
+npm install @react-native-community/slider --save
+
+Image Picker
+-------------
+npm install react-native-image-picker --save
+
+Please add the following permissions in the AndroidManifest.xml
+<uses-permission android:name="android.permission.CAMERA"/>
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+Video 
+--------
+npm install --save react-native-video
+npm install --save react-native-media-controls
+
+Drop down Multiple selecter picker
+------------------------------------
+npm install react-native-multiple-select --save
+npm install react-native-vector-icons --save
+react-native link react-native-vector-icons
+
+Slider image
+------------
+npm install react-native-image-gallery --save
